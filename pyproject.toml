@@ -6,7 +6,7 @@ authors = ["Harihran <thavaahariharangit@github.com>"]
 packages = []
 
 [tool.poetry.dependencies]
-bandit = "^1.8.2"
+bandit = "1.8.0"
 python = ">=3.9"
 thavaahariharangit_project = { path = "lib/thavaahariharangit_project-0.1.0-py3-none-any.whl" }
 
