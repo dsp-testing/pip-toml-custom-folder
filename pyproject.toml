@@ -11,9 +11,9 @@ python = ">=3.9"
 thavaahariharangit_project = { path = "lib/thavaahariharangit_project-0.1.0-py3-none-any.whl" }
 
 [[tool.poetry.source]]
-name = "dependabot-pip"
-url = "https://thavaahariharangit@github.com:${secrets.JFROG_ARTIFACTORY_TOKEN}@jfrogghdemo.jfrog.io/artifactory/api/pypi/dependabot-pip/simple"
-priority = "primary"
+# name = "dependabot-pip"
+# url = "https://thavaahariharangit@github.com:${secrets.JFROG_ARTIFACTORY_TOKEN}@jfrogghdemo.jfrog.io/artifactory/api/pypi/dependabot-pip/simple"
+# priority = "primary"
 
 [build-system]
 requires = ["setuptools", "wheel"]
