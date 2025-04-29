@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "my_project"
+name = "my_project_ext"
 version = "0.1.0"
 description = "My example pip toml project."
 authors = ["Harihran <thavaahariharangit@github.com>"]
